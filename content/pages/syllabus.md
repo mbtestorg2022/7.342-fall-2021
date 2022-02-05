@@ -51,18 +51,177 @@ The course will be graded as pass/fail. Students are expected to attend every cl
 Calendar
 --------
 
-| Week # | Topics | Key Dates |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Immune Responses to Cancer | &nbsp; |
-| 3 | The Physical Basis of Cell Motility I | &nbsp; |
-| 4 | The Physical Basis of Cell Motility II | &nbsp; |
-| 5 | Specialized Adhesions Formed by Immune Cells | &nbsp; |
-| 6 | Modes of Cell Migration in and out of Confinement | &nbsp; |
-| 7 | Guest Lecture: Jeff Kuhn, Director of the [Microscopy Core Facility](https://ki.mit.edu/sbc/microscopy) at the Koch Institute | &nbsp; |
-| 8 | Signals that Guide Immune Cell Motility | Written Assignment due |
-| 9 | Integrating Start and Stop Signals in Immune Cells | &nbsp; |
-| 10 | Making Decisions | &nbsp; |
-| 11 | Migration in Immune and Nonimmune Tissues | &nbsp; |
-| 12 | Cytoskeletal Regulation of Immune Cell Functions | &nbsp; |
-| 13 | Oral Presentations and Wrap-Up | Oral Presentation due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Immune Responses to Cancer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Physical Basis of Cell Motility I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Physical Basis of Cell Motility II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Specialized Adhesions Formed by Immune Cells
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Modes of Cell Migration in and out of Confinement
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture: Jeff Kuhn, Director of the [Microscopy Core Facility](https://ki.mit.edu/sbc/microscopy) at the Koch Institute
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Signals that Guide Immune Cell Motility
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Integrating Start and Stop Signals in Immune Cells
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Making Decisions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Migration in Immune and Nonimmune Tissues
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Cytoskeletal Regulation of Immune Cell Functions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations and Wrap-Up
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentation due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
